@@ -1,3 +1,11 @@
+"li":
+  - firstname: ["Tianyu", "T."]
+    url: http://imtianyuli.com/
+
+"figueroa":
+  - firstname: ["Nadia", "N."]
+    url: https://nbfigueroa.github.io/
+
 "adams":
   - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
     url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
@@ -32,3 +40,5 @@
 "planck":
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
+
+
