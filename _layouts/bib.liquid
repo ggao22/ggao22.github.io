@@ -161,7 +161,7 @@
       {% capture entrymonth %}{{ " " }}<em>{{ entry.month | capitalize }}</em>{% endcapture %}
     {% endif %}
     {% if entry.year %}
-      {% capture entryyear %}{{ " " }}<em>{{ entry.year }}</em>{% endcapture %}
+      {% capture entryyear %}{{ " " }}<em>{{ entry.year }}</em>{{ "." }}{% endcapture %}
     {% endif %}
     {% if entry.location %}
       {% capture entrytype %}{{ entrytype }}{{ ", " }}{{ entry.location }}{% endcapture %}
