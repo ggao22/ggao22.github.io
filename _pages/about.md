@@ -20,8 +20,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 
 I am a second year Robotics Master's student in the [General Robotics, Automation, Sensing & Perception (GRASP) Laboratory](https://www.grasp.upenn.edu/) at the University of Pennsylvania, advised by [Prof. Nadia Figueroa](https://nbfigueroa.github.io/) and [Prof. Dinesh Jayaraman](https://www.seas.upenn.edu/~dineshj/). 
 
-Previously, I completed my undergraduate studies in Computer Science and Mathematics at Washington University in St. Louis, where I worked with [Prof. Yevgeniy Vorobeychik](https://vorobeychik.com/).
+Previously, I completed my undergraduate studies in Mathematics and Computer Science at Washington University in St. Louis, where I worked with [Prof. Yevgeniy Vorobeychik](https://vorobeychik.com/).
 
-My research focuses on the intersection of learning-based methods and control theory for robotics, with the goal of enabling robots to <b>safely</b> and <b>intelligently</b> interact with the physical world. 
+<b>My research focuses broadly on the <b>generalization of learning-based robot policies</b></b> 🦾.
 
-<!-- You can find my [CV here](/assets/pdf/gdn-act.pdf). -->
+Link to my [CV](/assets/pdf/CV_Apr2025.pdf) (last update: April 2025).
