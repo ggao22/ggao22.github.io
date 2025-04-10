@@ -22,6 +22,6 @@ I am a second year Robotics Master's student in the [General Robotics, Automatio
 
 Previously, I completed my undergraduate studies in Mathematics and Computer Science at Washington University in St. Louis, where I worked with [Prof. Yevgeniy Vorobeychik](https://vorobeychik.com/).
 
-<b>My research focuses broadly on the <b>generalization of learning-based robot policies</b></b> 🦾.
+<b>My research broadly focuses on the <b>generalization of learning-based robot policies</b></b> 🦾.
 
 Link to my [CV](/assets/pdf/CV_Apr2025.pdf) (last update: April 2025).
