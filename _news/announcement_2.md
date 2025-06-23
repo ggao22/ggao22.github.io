@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>Presented</b> our work on Object-Centric Recovery at CoRL 2024 Workshop on Lifelong Learning for Home Robots. [Presentation Video.](https://www.youtube.com/watch?v=-24YYIIPWjM&feature=youtu.be)
+Check out our <b>Spotlight Presentation</b> :sparkles: for our [OCR](https://sites.google.com/view/ocr-penn) Project at CoRL 2024 Workshop on Lifelong Learning for Home Robots. [Video](https://www.youtube.com/watch?v=-24YYIIPWjM&feature=youtu.be)

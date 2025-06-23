@@ -1,12 +1,25 @@
 ---
 ---
 
-@misc{gao2024outofdistributionrecoveryobjectcentrickeypoint,
+@misc{gao2025vlmgineer,
+  title={VLMgineer: Vision Language Models as Robotic Toolsmiths}, 
+  author={Gao*, George Jiayuan and Li*, Tianyu and Shi, Junyao and Li†, Yihan and Zhang†, Zizhe and Figueroa, Nadia and Jayaraman, Dinesh},
+  abstract={Tool design and use reflect the ability to understand and manipulate the physical world through creativity, planning, and foresight. As such, it is often regarded as a measurable indicator of cognitive intelligence across biological species. While much of today's research on robotics intelligence focuses on generating better control strategies, inventing smarter tools offers a complementary form of physical intelligence: moving the problem-solving onus into the tool's geometry so that control becomes simpler.This motivates us to ask: can today's foundation models offer useful priors to automatically invent—and effectively wield—such tools? We present VLMgineer, a framework that harnesses the creativity of Vision–Language Models (VLMs) together with evolutionary search to co-design physical tools and the control policies that operate them. We evaluate VLMgineer on a diverse benchmark of everyday manipulation scenarios that demand creative tool design and use. Across this suite, VLMgineer consistently discovers tools and policies that solve tasks more effectively and innovatively, transforming challenging robotics problems into straightforward executions. It also consistently outperforms VLM-generated designs from human specifications and existing human-crafted tools for everyday tasks. To facilitate future research on automated tool invention, we will release our benchmark and code.},
+  year={2025},
+  additional_info={:sparkles: <b>Spotlight</b> at *[RSS Workshop on Robot Hardware-Aware Intelligence](https://rss-hardware-intelligence.github.io/)*},
+  project_site={https://vlmgineer.github.io/release}, 
+  pdf={https://vlmgineer.github.io/static/VLMgineer.pdf}, 
+  selected={true},
+  preview={vlmgineer.avifs},
+}
+
+
+@misc{gao2025ocr,
   title={Out-of-Distribution Recovery with Object-Centric Keypoint Inverse Policy For Visuomotor Imitation Learning}, 
   author={Gao, George Jiayuan and Li, Tianyu and Figueroa, Nadia},
   abstract={We propose an object-centric recovery policy framework to address the challenges of out-of-distribution (OOD) scenarios in visuomotor policy learning. Previous behavior cloning (BC) methods rely heavily on a large amount of labeled data coverage, failing in unfamiliar spatial states. Without relying on extra data collection, our approach learns a recovery policy constructed by an inverse policy inferred from object keypoint manifold gradient in the original training data. The recovery policy serves as a simple add-on to any base visuomotor BC policy, agnostic to a specific method, guiding the system back towards the training distribution to ensure task success even in OOD situations. We demonstrate the effectiveness of our object-centric framework in both simulation and real robot experiments, achieving an improvement of 77.7% over the base policy in OOD. },
-  year={2024},
-  additional_info={:sparkles: <b>Spotlight</b> at *[CoRL Workshop on Lifelong Learning for Home Robots](https://llhomerobots.github.io/)*},
+  year={2025},
+  additional_info={International Conference on Intelligent Robots and Systems (IROS)},
   project_site={https://sites.google.com/view/ocr-penn}, 
   pdf={https://arxiv.org/pdf/2411.03294}, 
   arxiv={2411.03294}, 
@@ -14,6 +27,8 @@
   selected={true},
   preview={ocr_preview.png},
 }
+
+
 
 @misc{eureka_manip,
   title={(On-Going) Eureka for Manipulation: Real-World Dexterous Agent via Large-Scale Reinforcement Learning}, 
@@ -23,13 +38,6 @@
   preview={eureka_manip.png},
 }
 
-@misc{vlmgineer,
-  title={(On-Going) VLMgineer: Vision-Language-Model Driven Gripper Add-Ons for Universal Manipulation}, 
-  year={2025},
-  additional_info={Can we give robots the ability to design and use tools to solve problems? This project proposes a pipeline leveraging Vision-Language Models (VLMs) to autonomously generate gripper add-ons, enhancing robots' capabilities to handle infinitely diverse and complex objects and scenarios},
-  project={true},
-  preview={vlmgineer.png},
-}
 
 @misc{novel_view_action_synthesis,
   title={(On-Going) Stable Visuomotor Policy from a Single Demo: Elastic Action Synthesis Data Augmentation}, 

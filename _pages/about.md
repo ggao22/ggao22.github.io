@@ -24,4 +24,4 @@ Previously, I completed my undergraduate studies in Mathematics and Computer Sci
 
 <b>My research broadly focuses on the <b>generalization of learning-based robot policies</b></b> 🦾.
 
-Link to my [CV](/assets/pdf/CV_Apr2025.pdf) (last update: April 2025).
+Link to my [CV](/assets/pdf/cv.pdf) (last update: June 2025).
